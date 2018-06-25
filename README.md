@@ -1,0 +1,2 @@
+#Django_blog
+这是一个个人的简单的blog项目
